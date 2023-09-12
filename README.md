@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:1024/1*jkOCjQlkGZjbhWdvh7LfRA.png">
+  <img align="center" alt="Joao-Java" height="30" width="40" src="https://mlohrktvfr9b.i.optimole.com/cb:5Boq.164d9/w:auto/h:auto/q:75/f:avif/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-26-Java.png">
 
 </div>
   
