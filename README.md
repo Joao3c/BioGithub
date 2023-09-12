@@ -1,7 +1,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/Java-plain.svg">
+  <img align="center" alt="Joao-Java" height="30" width="40" src="![image](https://github.com/Joao3c/Joao3c/assets/117127180/fb71ccf8-1dc6-4e47-8390-052dbb062090)
+">
 </div>
   
   ##
