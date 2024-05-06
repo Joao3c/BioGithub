@@ -1,4 +1,4 @@
-## Opa! me chamo João Antônio e quero mostrar a minha evolução em programação 
+## Opa! me chamo João Antônio e vim mostrar alguns projetos meus! 
 
 
 <div style="display: inline_block"><br>
